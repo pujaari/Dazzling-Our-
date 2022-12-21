@@ -68,6 +68,3 @@ See [`changelog.md`](CHANGELOG.md) for further information about the changes tha
 
 This repository using MIT License (MIT). See [`license.md`](LICENSE.md) for further information.
 
-## Author
-
-- [Septianata Rizky Pratama](https://github.com/ngodingbang)
